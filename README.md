@@ -40,3 +40,5 @@ Allow deleting or editing existing names
 Switch from a text file to a local database (such as SQLite)
 
 Improve the visual interface with more modern styles
+
+VIDEO: https://youtu.be/IBnmbU2GGQ0
